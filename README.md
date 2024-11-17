@@ -1,4 +1,4 @@
-# Umar Khan's Personal Portfolio
+# Umer Khan's Personal Portfolio
 
 ## Introduction
 Umar Khan's Personal Portfolio is a web-based application that serves as his online resume and showcases his skills, education, projects, and contact information. It provides a user-friendly interface for visitors to learn more about Umar's background and professional experience.
